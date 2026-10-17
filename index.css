@@ -107,7 +107,7 @@ a {
 
 .intro h1 {
   margin: 18px 0 24px;
-  font-size: clamp(36px, 10vw, 48px);
+  font-size: clamp(42px, 10vw, 52px);
   line-height: 1.08;
   font-weight: 800;
   letter-spacing: -1.8px;
@@ -121,7 +121,7 @@ a {
 .intro-text {
   max-width: 340px;
   margin: 0 auto;
-  font-size: 22px;
+  font-size: 28px;
   line-height: 1.8;
 }
 
@@ -137,7 +137,7 @@ a {
   border-radius: 50px;
   background: var(--blue);
   color: var(--blue-dark);
-  font-size: 15px;
+  font-size: 22px;
   font-weight: 700;
   text-decoration: none;
   transition: transform 0.2s ease;
@@ -193,7 +193,7 @@ a {
 
 .caption-text {
   margin: 0;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.7;
 }
 
@@ -221,21 +221,21 @@ a {
 
 .ending h2 {
   margin: 12px 0 22px;
-  font-size: 38px;
+  font-size: 48px;
   letter-spacing: -1px;
 }
 
 .ending-text {
   max-width: 350px;
   margin: 0;
-  font-size: 22px;
+  font-size: 28px;
   line-height: 1.9;
 }
 
 .ending-signature {
   margin-top: 28px;
   color: var(--blue-dark);
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.8;
 }
 
@@ -245,7 +245,7 @@ a {
   border: 1px solid var(--blue-dark);
   border-radius: 30px;
   color: var(--blue-dark);
-  font-size: 20px;
+  font-size: 22px;
   text-decoration: none;
 }
 
