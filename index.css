@@ -28,7 +28,6 @@ body {
   margin: 0;
   color: var(--ink);
   background-color: var(--paper);
-  background-image: url("IMAGENS/dotted-paper-bullet-journal-template-bullet-journal-texture-pattern-dotted-background-vector_833685-3851.avif");
   background-repeat: repeat;
   background-size: 320px auto;
   font-family: var(--font-main);
@@ -105,13 +104,6 @@ a {
   letter-spacing: 12px;
 }
 
-.intro-eyebrow,
-.ending-eyebrow {
-  font-size: 10px;
-  letter-spacing: 2.5px;
-  font-weight: 700;
-  color: var(--muted);
-}
 
 .intro h1 {
   margin: 18px 0 24px;
@@ -129,7 +121,7 @@ a {
 .intro-text {
   max-width: 340px;
   margin: 0 auto;
-  font-size: 15px;
+  font-size: 22px;
   line-height: 1.8;
 }
 
@@ -145,7 +137,7 @@ a {
   border-radius: 50px;
   background: var(--blue);
   color: var(--blue-dark);
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 700;
   text-decoration: none;
   transition: transform 0.2s ease;
@@ -156,16 +148,9 @@ a {
 }
 
 .scroll-button span {
-  font-size: 19px;
+  font-size: 22px;
 }
 
-.intro-footer {
-  display: block;
-  margin-top: 44px;
-  color: var(--muted);
-  font-size: 9px;
-  letter-spacing: 1.8px;
-}
 
 
 /* Variações para parecer scrapbook */
@@ -205,17 +190,10 @@ a {
   font-size: 19px;
 }
 
-.caption-label {
-  margin: 0 24px 10px 0;
-  color: var(--blue-dark);
-  font-size: 9px;
-  font-weight: 800;
-  letter-spacing: 1.5px;
-}
 
 .caption-text {
   margin: 0;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 1.7;
 }
 
@@ -250,14 +228,14 @@ a {
 .ending-text {
   max-width: 350px;
   margin: 0;
-  font-size: 15px;
+  font-size: 22px;
   line-height: 1.9;
 }
 
 .ending-signature {
   margin-top: 28px;
   color: var(--blue-dark);
-  font-size: 13px;
+  font-size: 20px;
   line-height: 1.8;
 }
 
@@ -267,7 +245,7 @@ a {
   border: 1px solid var(--blue-dark);
   border-radius: 30px;
   color: var(--blue-dark);
-  font-size: 12px;
+  font-size: 20px;
   text-decoration: none;
 }
 
